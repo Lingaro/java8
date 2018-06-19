@@ -8,6 +8,10 @@ import java.util.List;
 
 public class Ex4 extends Ex1 {
 
+    /**
+     * TODO: Make Ex1.getDashboard() functional
+     * Exercise for participant
+     */
     @Override
     String getDashboard() {
         List<User> users = MockData.USERS;

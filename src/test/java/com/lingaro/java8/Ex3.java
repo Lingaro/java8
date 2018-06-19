@@ -17,7 +17,7 @@ public class Ex3 {
      */
     List<String> getUserNames() {
         List<User> users = MockData.USERS;
-        // TODO
+        // TODO: live code: Stream API
         return Collections.emptyList();
     }
 

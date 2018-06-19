@@ -34,7 +34,7 @@ public class Ex2 extends Ex1 {
     }
 
     /*
-     * TODO: generalize join() to accept
+     * TODO: live code: generalize join() to accept
      * - Predicate<T> condition,
      * - Function<T, String> toString
      */
